@@ -22,3 +22,18 @@ HOW TO USE
 
 1. Set global variables and path in globals.m
 2. Run script_SOGE.m to test on example dataset AT&T or JAFFE.
+
+CITATION
+--------
+
+If you find our repository useful, you can cite:
+```
+@inproceedings{liu2017semi,
+  author    = {Hanyang Liu, Junwei Han, Feiping Nie},
+  title     = {Semi-supervised Orthogonal Graph Embedding with Recursive Projections},
+  booktitle = {Proceedings of the Twenty-Sixth International Joint Conference on
+               Artificial Intelligence, {IJCAI-17}},
+  pages     = {2308--2314},
+  year      = {2017},
+}
+```
